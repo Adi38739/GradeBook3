@@ -1,0 +1,17 @@
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.AssemblyReference.cache
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.sourcelink.json
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.Up2Date
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\Adi\Source\Repos\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
